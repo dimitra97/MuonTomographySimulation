@@ -11,3 +11,4 @@ The method used is the muon scattering tomography for the imaging of a lead cube
 After applying the POCA algorithm and an algorithm that "clears" the image from some false poca points the following image arises, presenting the construction of the object in 3D and on the xy plane as well.
 
 ![Screenshot from 2022-08-17 17-56-35 resized](https://user-images.githubusercontent.com/63058524/185173477-e313007e-89d7-40f2-a7ee-6065e5a3054f.png)
+![Screenshot from 2022-08-17 17-56-24](https://user-images.githubusercontent.com/63058524/185173875-ea13ca97-38ec-4fbe-a25c-78994647c34f.png)
